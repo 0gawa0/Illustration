@@ -6,7 +6,7 @@
 サークル内で決めたお題に沿って作成したもの。
 
 ## 大学祭宣伝用ポスター
-<img width="400" src="https://github.com/0gawa0/Illustration/blob/main/ICON_2023_ポスター.png">
+<img width="400" src="https://github.com/0gawa0/Illustration/blob/main/ICON_2023_poster.png">
 大学祭の宣伝のために作成したもの。
 
 ## ICONちゃん
